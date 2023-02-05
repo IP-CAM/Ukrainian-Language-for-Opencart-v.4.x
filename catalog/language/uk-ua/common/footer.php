@@ -15,8 +15,4 @@ $_['text_account'] = 'Особистий Кабінет';
 $_['text_order'] = 'Історія замовлень';
 $_['text_wishlist'] = 'Закладки';
 $_['text_newsletter'] = 'Розсилання';
-if( basename(__FILE__) == "index.php" ) {
-$_['text_powered'] = 'Магазин на <a href="https://opencartbot.com/">OpenCart</a><br /> %s &copy; %s';
-} else {
 $_['text_powered'] = 'Магазин на <a href="https://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-}
