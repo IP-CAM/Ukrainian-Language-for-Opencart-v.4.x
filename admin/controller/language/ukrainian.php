@@ -59,7 +59,7 @@ class Ukrainian extends \Opencart\System\Engine\Controller {
 
 			$this->load->model('localisation/language');
 
-			$language_info = $this->model_localisation_language-> getLanguageByCode('uk-ua');
+			$language_info = $this->model_localisation_language->getLanguageByCode('uk-ua');
 
 			$language_info['status'] = (empty($this->request->post['language_ukrainian_status']) ? '0' : '1');
 
