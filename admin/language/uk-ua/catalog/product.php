@@ -30,11 +30,12 @@ $_['text_datetime'] = 'Дата і час';
 $_['text_time'] = 'Час';
 $_['text_image'] = 'Зображення';
 $_['text_image_additional'] = 'Додаткові зображення';
-$_['text_reward'] = 'Купити бали';
+$_['text_reward'] = 'Ціна у балах';
 $_['text_points'] = 'Бонусні бали';
-$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім';
+$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім ';
 $_['text_subscription_description'] = '%s кожен %d %s(й) для %d платежу(ів)';
 $_['text_subscription_cancel'] = '%s кожен %d %s(й) поки не скасують';
+$_['text_report'] = 'Звіти';
 
 // Column
 $_['column_name'] = 'Назва товару';
@@ -72,6 +73,7 @@ $_['entry_quantity'] = 'Кількість';
 $_['entry_minimum'] = 'Мінімальна кількість';
 $_['entry_stock_status'] = 'Відсутність на складі';
 $_['entry_price'] = 'Ціна';
+$_['entry_trial_price'] = 'Пробна ціна';
 $_['entry_tax_class'] = 'Податок';
 $_['entry_points'] = 'Бали';
 $_['entry_subtract'] = 'Відняти від складу';
@@ -129,6 +131,7 @@ $_['error_name'] = 'Назва товару має містити від 1 до 
 $_['error_meta_title'] = 'Мета-тег Title повинен містити від 1 до 255 символів!';
 $_['error_model'] = 'Модель товару має містити від 1 до 64 символів!';
 $_['error_seo'] = 'SEO URL необхідний і обов\'язковий!';
-$_['error_keyword'] = 'SEO URL має бути унікальним!';
+$_['error_keyword'] = 'SEO URL повинен містити від 1 до 255 символів!';
+$_['error_keyword_exists']   = 'SEO URL має бути унікальним!';
 $_['error_required'] = '%s необхідний!';
 

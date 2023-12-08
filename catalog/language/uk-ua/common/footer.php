@@ -15,4 +15,4 @@ $_['text_account'] = 'Особистий Кабінет';
 $_['text_order'] = 'Історія замовлень';
 $_['text_wishlist'] = 'Закладки';
 $_['text_newsletter'] = 'Розсилання';
-$_['text_powered'] = 'Магазин на <a href="https://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_powered'] = 'Магазин на <a href="https://www.opencart.com">OpenCart</a> | Переклад <a href="https://opencartbot.com/" target="_blank">OpenCartBot</a><br> %s &copy; %s';

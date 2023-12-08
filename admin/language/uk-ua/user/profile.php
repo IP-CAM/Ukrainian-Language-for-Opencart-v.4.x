@@ -5,6 +5,8 @@ $_['heading_title'] = 'Профіль';
 // Text
 $_['text_success'] = 'Налаштування успішно змінено!';
 $_['text_edit'] = 'Редагувати';
+$_['text_user'] = 'Дані користувача';
+$_['text_password'] = 'Пароль';
 
 // Column
 $_['column_username'] = 'Логін';

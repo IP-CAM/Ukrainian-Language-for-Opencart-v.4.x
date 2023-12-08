@@ -4,6 +4,7 @@ $_['heading_title'] = 'Відгуки';
 
 // Text
 $_['text_success'] = 'Налаштування успішно змінено!';
+$_['text_next'] = 'Успішно змінено %s оцінок товарів з %s!';
 $_['text_list'] = 'Відгуки';
 $_['text_add'] = 'Додати';
 $_['text_edit'] = 'Редагування';
@@ -23,6 +24,7 @@ $_['entry_author'] = 'Автор';
 $_['entry_rating'] = 'Рейтинг';
 $_['entry_status'] = 'Статус';
 $_['entry_text'] = 'Текст';
+$_['entry_date_added'] = 'Дата додавання';
 $_['entry_date_from'] = 'Дата від';
 $_['entry_date_to'] = 'Дата до';
 

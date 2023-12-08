@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_subscription'] = 'Передплата';
-$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім';
+$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім ';
 $_['text_subscription_duration'] = '%s кожен %d %s(й) для %d платежу(ів)';
 $_['text_subscription_cancel'] = '%s кожен %d %s(й) поки не скасують';
 $_['text_day'] = 'день';

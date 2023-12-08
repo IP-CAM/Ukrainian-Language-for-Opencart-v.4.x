@@ -1,10 +1,11 @@
 <?php
 // Text
 $_['text_items'] = '%s товарів (%s)';
+$_['text_points'] = 'Бонусні бали';
 $_['text_subscription'] = 'Передплата';
-$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім';
-$_['text_subscription_duration'] = '%s кожен %d %s(й) для %d платежу(ів)';
-$_['text_subscription_cancel'] = '%s кожен %d %s(й) поки не скасують';
+$_['text_subscription_trial'] = '%s кожен %d %s(ів) для %d платежу(ів) потім ';
+$_['text_subscription_duration'] = '%s кожен %d %s(ів) для %d платежу(ів)';
+$_['text_subscription_cancel'] = '%s кожен %d %s(ів) поки не скасують';
 $_['text_day'] = 'день';
 $_['text_week'] = 'тиждень';
 $_['text_semi_month'] = 'півмісяця';

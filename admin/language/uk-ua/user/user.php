@@ -7,10 +7,17 @@ $_['text_success'] = 'Налаштування успішно змінено!';
 $_['text_list'] = 'Список користувачів';
 $_['text_add'] = 'Додати';
 $_['text_edit'] = 'Редагування';
+$_['text_user'] = 'Дані користувача';
+$_['text_password'] = 'Пароль';
+$_['text_other'] = 'Інше';
+$_['text_login'] = 'Історія входів';
+$_['text_authorize'] = 'Історія авторизацій';
 
 // Column
 $_['column_username'] = 'Логін';
 $_['column_status'] = 'Статус';
+$_['column_ip']             = 'IP';
+$_['column_user_agent']     = 'User Agent';
 $_['column_date_added'] = 'Додано';
 $_['column_action'] = 'Дія';
 
@@ -24,6 +31,10 @@ $_['entry_lastname'] = 'Прізвище';
 $_['entry_email'] = 'E-Mail';
 $_['entry_image'] = 'Зображення';
 $_['entry_status'] = 'Статус';
+
+// Tabs
+$_['tab_authorize']         = 'Авторизація';
+$_['tab_login']             = 'Вхід';
 
 // Error
 $_['error_permission'] = 'У Вас немає прав для керування Користувачами!';
