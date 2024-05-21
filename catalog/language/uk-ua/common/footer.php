@@ -1,6 +1,7 @@
 <?php
 // Text
 $_['text_information'] = 'Інформація';
+$_['text_blog'] = 'Блог';
 $_['text_service'] = 'Служба підтримки';
 $_['text_extra'] = 'Додатково';
 $_['text_contact'] = 'Контакти';
@@ -14,5 +15,5 @@ $_['text_special'] = 'Акції';
 $_['text_account'] = 'Особистий Кабінет';
 $_['text_order'] = 'Історія замовлень';
 $_['text_wishlist'] = 'Закладки';
-$_['text_newsletter'] = 'Розсилання';
+$_['text_newsletter'] = 'Розсилка';
 $_['text_powered'] = 'Магазин на <a href="https://www.opencart.com">OpenCart</a> | Переклад <a href="https://opencartbot.com/" target="_blank">OpenCartBot</a><br> %s &copy; %s';

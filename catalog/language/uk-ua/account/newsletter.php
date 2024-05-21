@@ -3,8 +3,8 @@
 $_['heading_title'] = 'Підписка на новини';
 
 // Text
-$_['text_account'] = 'Особистий Кабінет';
-$_['text_newsletter'] = 'Розсилання';
+$_['text_account'] = 'Особистий кабінет';
+$_['text_newsletter'] = 'Розсилка';
 $_['text_success'] = 'Ваша підписка успішно оновлена!';
 
 // Entry

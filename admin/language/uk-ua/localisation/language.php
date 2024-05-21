@@ -17,12 +17,13 @@ $_['column_action'] = 'Дія';
 // Entry
 $_['entry_name'] = 'Назва';
 $_['entry_code'] = 'Код';
-$_['entry_locale'] = 'Кодування';
+$_['entry_locale'] = 'Локаль';
 $_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортування';
+$_['entry_extension'] = 'Код модуля';
 
 // Help
-$_['help_locale'] = 'Приклад: uk_UA.UTF-8,uk_UA,uk-ua,ukrainian або en_US.UTF-8,en_US,en-gb,en_gb,english';
+$_['help_locale'] = 'Приклад: uk,uk_UA.UTF-8,uk_UA,uk-ua,ukrainian';
 $_['help_status'] = 'Показати або приховати мову у виборі мови на вітрині магазину.';
 
 // Error

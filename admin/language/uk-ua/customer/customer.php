@@ -14,6 +14,7 @@ $_['text_password'] = 'Пароль';
 $_['text_other'] = 'Інше';
 $_['text_balance'] = 'Баланс';
 $_['text_address'] = 'Адреса';
+$_['text_address_add'] = 'Додати адресу';
 $_['text_payment_method'] = 'Спосіб оплати';
 $_['text_history'] = 'Історія';
 $_['text_history_add'] = 'Додати до історії';
@@ -26,6 +27,7 @@ $_['text_option'] = 'Варіанти';
 $_['text_login'] = 'Авторизуватися в магазині';
 $_['text_unlock'] = 'Розблокувати обліковий запис';
 $_['text_filter'] = 'Фільтр';
+$_['text_authorize'] = 'Історія авторизацій';
 
 // Column
 $_['column_name'] = 'Ім\'я клієнта';
@@ -45,6 +47,8 @@ $_['column_payment_method'] = 'Метод оплати';
 $_['column_image'] = 'Зображення';
 $_['column_type'] = 'Тип';
 $_['column_date_expire'] = 'Дата закінчення';
+$_['column_user_agent'] = 'User Agent';
+$_['column_address'] = 'Адреса';
 $_['column_action'] = 'Дія';
 
 // Entry
@@ -57,6 +61,7 @@ $_['entry_telephone'] = 'Телефон';
 $_['entry_newsletter'] = 'Підписка до новин';
 $_['entry_status'] = 'Статус';
 $_['entry_safe'] = 'Безпечний';
+$_['entry_commenter'] = 'Коментатор';
 $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердіть пароль';
 $_['entry_company'] = 'Компанія';
@@ -76,11 +81,15 @@ $_['entry_ip'] = 'IP';
 $_['entry_date_from'] = 'Дата від';
 $_['entry_date_to'] = 'Дата до';
 
+// Tab
+$_['tab_authorize']  = 'Авторизація';
+
 // Button
 $_['button_order'] = 'Замовлення';
 
 // Help
 $_['help_safe'] = 'Увімкніть, щоб схвалити цього клієнта, якщо він був спійманий системою боротьби з шахрайством';
+$_['help_commenter'] = 'Увімкніть, щоб клієнт не був перехоплений системою захисту від спаму';
 $_['help_points'] = 'Використовуйте мінус для віднімання балів, наприклад -60';
 
 // Error
@@ -101,3 +110,4 @@ $_['error_postcode'] = 'Індекс має бути від 2 до 10 симво
 $_['error_country'] = 'Виберіть країну!';
 $_['error_zone'] = 'Виберіть регіон!';
 $_['error_custom_field'] = '%s обов\'язково!';
+$_['error_regex']           = '%s не правильний ввід!';

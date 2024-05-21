@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Особистий Кабінет';
+$_['heading_title'] = 'Особистий кабінет';
 
 // Text
-$_['text_account'] = 'Особистий Кабінет';
+$_['text_account'] = 'Особистий кабінет';
 $_['text_my_account'] = 'Мій обліковий запис';
 $_['text_my_orders'] = 'Мої замовлення';
 $_['text_my_affiliate'] = 'Мій партнерський обліковий запис';

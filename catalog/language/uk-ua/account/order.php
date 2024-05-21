@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Історія замовлень';
 
 // Text
-$_['text_account'] = 'Особистий Кабінет';
+$_['text_account'] = 'Особистий кабінет';
 $_['text_order'] = 'Замовлення';
 $_['text_order_detail'] = 'Деталі замовлення';
 $_['text_invoice_no'] = '№ Рахунки';
