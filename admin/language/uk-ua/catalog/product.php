@@ -35,7 +35,17 @@ $_['text_points'] = 'Бонусні бали';
 $_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім ';
 $_['text_subscription_description'] = '%s кожен %d %s(й) для %d платежу(ів)';
 $_['text_subscription_cancel'] = '%s кожен %d %s(й) поки не скасують';
+$_['text_day'] = 'день';
+$_['text_week'] = 'тиждень';
+$_['text_semi_month'] = 'півмісяця';
+$_['text_month'] = 'місяць';
+$_['text_year'] = 'рік';
 $_['text_report'] = 'Звіти';
+$_['text_from'] = 'Від';
+$_['text_to'] = 'До';
+$_['text_fixed'] = 'Фіксована сума';
+$_['text_subtract'] = 'Відняти';
+$_['text_percentage'] = 'Відсоток';
 
 // Column
 $_['column_name'] = 'Назва товару';
@@ -105,6 +115,8 @@ $_['entry_tag'] = 'Теги товару';
 $_['entry_reward'] = 'Бонусні бали';
 $_['entry_layout'] = 'Макет';
 $_['entry_subscription'] = 'Передплата';
+$_['entry_special'] = 'Акція';
+$_['entry_type'] = 'Тип';
 
 // Help
 $_['help_tag'] = 'Теги розділяються комою';

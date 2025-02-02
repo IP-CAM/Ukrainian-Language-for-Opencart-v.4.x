@@ -1,5 +1,4 @@
 <?php
-
 // Locale
 $_['code']                          = 'uk';
 $_['direction']                     = 'ltr';
@@ -44,8 +43,12 @@ $_['text_month_ago'] = '%s місяць тому';
 $_['text_months_ago'] = '%s місяців тому';
 $_['text_year_ago'] = '%s рік тому';
 $_['text_years_ago'] = '%s років тому';
+$_['button_resend'] = 'Надіслати повторно';
+$_['button_calculate'] = 'Перерахувати';
+$_['button_csv'] = 'Завантажити CSV';
+$_['button_complete'] = 'Завершити платежі';
 
-// Button
+// Buttons
 $_['button_add'] = 'Додати';
 $_['button_delete'] = 'Видалити';
 $_['button_save'] = 'Зберегти';

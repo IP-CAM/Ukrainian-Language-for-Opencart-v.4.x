@@ -98,7 +98,7 @@ class Ukrainian extends \Opencart\System\Engine\Controller {
 		if ($this->user->hasPermission('modify', 'extension/language')) {
 			$this->load->model('localisation/language');
 
-			$language_info = $this->model_localisation_language->getLanguageByCode('uk_ua');
+			$language_info = $this->model_localisation_language->getLanguageByCode('uk-ua');
 
 			if ($language_info) {
 				$this->model_localisation_language->deleteLanguage($language_info['language_id']);

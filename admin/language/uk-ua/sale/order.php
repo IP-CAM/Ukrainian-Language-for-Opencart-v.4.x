@@ -43,7 +43,7 @@ $_['text_order_id'] = '№ Замовлення';
 $_['text_website'] = 'Сайт';
 $_['text_invoice'] = 'Рахунок';
 $_['text_invoice_no'] = '№ Рахунки';
-$_['text_shipping'] = 'Коментар до доставки';
+$_['text_shipping'] = 'Виберіть спосіб доставки для цього замовлення.';
 $_['text_store_address'] = 'Адреса магазину';
 $_['text_store_telephone'] = 'Телефон магазину';
 $_['text_store_email'] = 'E-Mail магазину';
@@ -52,14 +52,15 @@ $_['text_missing'] = 'Пропущені Замовлення';
 $_['text_default'] = 'За замовчуванням';
 $_['text_picklist'] = 'Список доставки';
 $_['text_subscription'] = 'Передплата';
-$_['text_subscription_trial'] = '%s кожен %d %s(ів) для %d платежу(ів) потім ';
-$_['text_subscription_duration'] = '%s кожен %d %s(ів) для %d платежу(ів)';
-$_['text_subscription_cancel'] = '%s кожен %d %s(ів) поки не скасують';
+$_['text_subscription_trial'] = '%s кожен %d %s(й) для %d платежу(ів) потім ';
+$_['text_subscription_duration'] = '%s кожен %d %s(й) для %d платежу(ів)';
+$_['text_subscription_cancel'] = '%s кожен %d %s(й) поки не скасують';
 $_['text_day'] = 'день';
 $_['text_week'] = 'тиждень';
 $_['text_semi_month'] = 'півмісяця';
 $_['text_month'] = 'місяць';
 $_['text_year'] = 'рік';
+$_['text_payment'] = 'Виберіть спосіб оплати для цього замовлення.';
 
 // Column
 $_['column_order_id'] = '№ Замовлення';
